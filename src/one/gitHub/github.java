@@ -5,4 +5,8 @@ public class github {
         System.out.println("hbfdusialfdnsia");
         System.out.println("bcdhsajcbdsjancdsj");
     }
+
+    public static void main() {
+        System.out.println("dnbeusi");
+    }
 }
